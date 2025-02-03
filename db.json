@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Sohan Maurya",
+      "class": "12",
+      "fatherName": "Shyamdhar",
+      "motherName": "Vaishnavi",
+      "gender": "male",
+      "mobileNumber": 9506328878,
+      "address": "Khamaria, Bhadohi 221306"
+    },
+    {
+      "id": "cb93",
+      "gender": "Male",
+      "name": "Pradeep Maurya",
+      "fatherName": "Lal Bahadur Maurya",
+      "motherName": "Usha devi",
+      "mobileNumber": "95806328878",
+      "email": "001pradeep955@gmail.com",
+      "address": "khamaria, bhadohi"
+    },
+    {
+      "id": "9b91",
+      "gender": "Male",
+      "name": "rishi maurya",
+      "fatherName": "uday raj maurya",
+      "motherName": "renu devi",
+      "mobileNumber": "7856432623",
+      "email": "ridgh@gmail.com",
+      "address": "manaurveer,khamariya"
+    },
+    {
+      "id": "3d20",
+      "gender": "Male",
+      "name": "Vikash Yadav",
+      "fatherName": "Subas Chand Yadav",
+      "motherName": "Parvati Devi",
+      "mobileNumber": "7007617696",
+      "email": "vikash@gmail.com",
+      "address": "Gauri, Khamaria, Bhadohi"
+    }
+  ]
+}

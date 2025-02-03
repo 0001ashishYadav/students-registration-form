@@ -1,0 +1,109 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script defer src="script.js"></script>
+    <title>registration-form</title>
+  </head>
+  <body>
+    <div id="main-container">
+      <div id="form-div">
+        <form id="form">
+          <img
+            src="./assets/inflectionORG logo.webp"
+            height="50px"
+            width="50px"
+          />
+          <div class="title">
+            <p class="prg-title">Inflection ORG Pvt Ltd</p>
+          </div>
+          <div class="title">
+            <p class="prg-low-title">Empowering Education & Self-Employment</p>
+          </div>
+
+          <label>Name</label>
+          <input
+            name="name"
+            type="text"
+            placeholder="enter your Name"
+            required
+          /><br /><br />
+
+          <label>Father's Name</label>
+          <input
+            name="fatherName"
+            type="text"
+            placeholder="enter your Father's name"
+            required
+          /><br /><br />
+
+          <label>Mother's Name</label>
+          <input
+            name="motherName"
+            type="text"
+            placeholder="enter your Mother's name"
+            required
+          /><br /><br />
+
+          <label>Gender</label>
+          <select id="genderSelect">
+            <option>Please Sesect</option>
+            <option>Male</option>
+            <option>Female</option></select
+          ><br /><br />
+
+          <label>Mobile No.</label>
+          <input
+            name="mobileNumber"
+            type="number"
+            placeholder="0-123-456-789"
+            required
+          /><br /><br />
+
+          <label>Email</label>
+          <input
+            name="email"
+            type="email"
+            placeholder="enter a vailid e-mail"
+            required
+          /><br /><br />
+
+          <label>Address</label>
+          <input
+            name="address"
+            type="text"
+            placeholder="enter your full Address"
+            required
+          /><br /><br />
+
+          <button id="submitBtn" type="submit">Submit</button>
+        </form>
+        <button id="allStdListBtn">See All Student List</button>
+      </div>
+    </div>
+
+    <div id="all-Std-list-main-con">
+      <div class="all-Std-list-main-con-coTitle">
+        <div class="title">
+          <p class="prg-title">Inflection ORG Pvt Ltd</p>
+        </div>
+        <div class="title">
+          <p class="prg-low-title">Empowering Education & Self-Employment</p>
+        </div>
+      </div>
+
+      <div id="hide-std-list-con-Btn">
+        <button id="hide-std-list-Btn">
+          <img src="./assets/cross-23.png" height="100%" />
+        </button>
+      </div>
+
+      <p class="stdListPrg">Students List</p>
+
+      <div id="all-std-list-con"></div>
+    </div>
+  </body>
+</html>
