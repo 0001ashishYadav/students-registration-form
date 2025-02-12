@@ -313,6 +313,7 @@ filter: blur(0px);
     .std-card {
       width: 82%;
       height: 300px;
+      margin-left: 25px;
     }
     
     .std-detail-sec {

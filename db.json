@@ -39,6 +39,74 @@
       "mobileNumber": "7007617696",
       "email": "vikash@gmail.com",
       "address": "Gauri, Khamaria, Bhadohi"
+    },
+    {
+      "id": "88f3",
+      "gender": "Male",
+      "name": "Satyam Maurya",
+      "fatherName": "Krishna Kumar Maurya",
+      "motherName": "Shivakala Devi",
+      "mobileNumber": "8601097460",
+      "email": "satyam@gmail.com",
+      "address": "jhapatpur, MukundPatti, Khamaria"
+    },
+    {
+      "id": "1a25",
+      "name": "Pradeep Maurya",
+      "fatherName": "Lal Bahadur Maurya",
+      "motherName": "Usha devi",
+      "mobileNumber": "95806328878",
+      "email": "001pradeep955@gmail.com",
+      "address": "khamaria, bhadohi"
+    },
+    {
+      "id": "6c85",
+      "gender": "Male",
+      "name": "Pradeep Maurya",
+      "fatherName": "Lal Bahadur Maurya",
+      "motherName": "Usha devi",
+      "mobileNumber": "95806328878",
+      "email": "001pradeep955@gmail.com",
+      "address": "khamaria, bhadohi"
+    },
+    {
+      "id": "1f38",
+      "name": "Pradeep Maurya",
+      "fatherName": "Lal Bahadur Maurya",
+      "motherName": "Usha devi",
+      "mobileNumber": "95806328878",
+      "email": "001pradeep955@gmail.com",
+      "address": "khamaria, bhadohi"
+    },
+    {
+      "id": "8da3",
+      "gender": "Female",
+      "name": "Pradeep Maurya",
+      "fatherName": "Lal Bahadur Maurya",
+      "motherName": "Usha devi",
+      "mobileNumber": "95806328878",
+      "email": "001pradeep955@gmail.com",
+      "address": "khamaria, bhadohi"
+    },
+    {
+      "id": "6b89",
+      "gender": "Female",
+      "name": "Ashish Yadav",
+      "fatherName": "uday raj maurya",
+      "motherName": "renu devi",
+      "mobileNumber": "95806328878",
+      "email": "001pradeep955@gmail.com",
+      "address": "khamaria, bhadohi"
+    },
+    {
+      "id": "93c0",
+      "gender": "Female",
+      "name": "rishi maurya",
+      "fatherName": "uday raj maurya",
+      "motherName": "renu devi",
+      "mobileNumber": "07856432623",
+      "email": "ridgh@gmail.com",
+      "address": "manaurveer,khamariya"
     }
   ]
 }
